@@ -70,13 +70,13 @@ class Themelock:
                 tags.append(item.get_attribute('innerHTML'))
             self.collection.append(
                 {
-                    'page': page,
-                    'title': title,
-                    'link': link,
-                    'image': image,
-                    'tags': tags,
-                    'short_description': short_description,
-                    'description': None,
+                    "page": page,
+                    "title": title,
+                    "link": link,
+                    "image": image,
+                    "tags": tags,
+                    "short_description": short_description,
+                    "description": None,
                 }
             )
             with open('themelock.json', 'w') as f:
