@@ -1,4 +1,4 @@
-from themelock import Themelock
+from themelock.themelock import Themelock
 
 try:
     bot = Themelock(teardown=True)
