@@ -39,7 +39,7 @@ class Gimsap:
 
         s = Service(ChromeDriverManager().install())
         self.options = webdriver.ChromeOptions()
-        self.options.add_argument('headless')
+        # self.options.add_argument('headless')
         self.teardown = teardown
         # keep chrome open
         self.options.add_experimental_option("detach", True)
@@ -64,6 +64,15 @@ class Gimsap:
 
     def land_first_page(self):
         self.driver.get(BASE_URL)
+        self.driver.find_element(
+            by=By.CSS_SELECTOR, value='a[class="js-toggle-login-modal"]'
+        ).click()
+        self.driver.find_element(
+            by=By.ID, value="password"
+        ).send_keys("xWRLuaaiw48B")
+        self.driver.find_element(
+            by=By.CSS_SELECTOR, value='input[class="btn password-page__login-form__submit"]'
+        ).click()
 
     def get_collections(self):
         templates = self.driver.find_elements(
@@ -93,6 +102,7 @@ class Gimsap:
                 }
             )
             id += 1
+            print(id)
 
     def get_collection_products(self):
         for pages in self.collection:
@@ -114,6 +124,7 @@ class Gimsap:
                 by=By.CSS_SELECTOR,
                 value='div[class="grid__item wide--one-fifth large--one-quarter medium-down--one-half"]'
         ):
+            print(element.get_attribute('innerHTML'))
             link = element.find_element(By.TAG_NAME, value='div').find_element(
                 by=By.TAG_NAME,
                 value='a'
@@ -124,14 +135,29 @@ class Gimsap:
             ).find_element(
                 By.CSS_SELECTOR,
                 value='p[class="grid-link__title"]').get_attribute('innerHTML').strip()
-            price = element.find_element(By.TAG_NAME, value='div').find_element(
-                by=By.TAG_NAME,
-                value='a'
-            ).find_element(
-                By.CSS_SELECTOR,
-                value='p[class="grid-link__meta"]').find_element(
-                By.CSS_SELECTOR,
-                value='span[class="hidden"]').get_attribute('innerHTML').strip()
+            try:
+                price = element.find_element(By.TAG_NAME, value='div').find_element(
+                    by=By.TAG_NAME,
+                    value='a'
+                ).find_element(
+                    By.CSS_SELECTOR,
+                    value='p[class="grid-link__meta"]').get_attribute('innerHTML').strip()
+                # price = element.find_element(By.TAG_NAME, value='div').find_element(
+                #     by=By.TAG_NAME,
+                #     value='a'
+                # ).find_element(
+                #     By.CSS_SELECTOR,
+                #     value='p[class="grid-link__meta"]').find_element(
+                #     By.CSS_SELECTOR,
+                #     value='span[class="hidden"]').get_attribute('innerHTML').strip()
+            except:
+                price = element.find_element(By.TAG_NAME, value='div').find_element(
+                    by=By.TAG_NAME,
+                    value='a'
+                ).find_element(
+                    By.CSS_SELECTOR,
+                    value='p[class="grid-link__meta"]').get_attribute('innerHTML').strip()
+
             self.collection_products.append(
                 {
                     'id': product_id,
