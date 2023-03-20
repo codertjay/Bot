@@ -1,0 +1,778 @@
+[
+  {
+    "id": 0,
+    "title": "Snacks",
+    "link": "https://gimsap.ca/collections/dry-food",
+    "image": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/Mock-Up-MrJ-YELLOW70g_1000x1000.jpg?v=1603115269",
+    "products": [
+      {
+        "id": 0,
+        "link": "https://gimsap.ca/collections/dry-food/products/mr-johns-ripe-spicy-plantain-chips",
+        "name": "Mr. John's Ripe Spicy Plantain Chips",
+        "price": "1.50",
+        "description": "Premium quality plantains fried with pure canola oil and packed immediately to preserve freshness.&nbsp;Ripe plantains&nbsp;are spiced with a caribbean spice blend. Gluten Free. 100% Natural Ingredients.",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/Mock-Up-MrJ-YELLOW70g_1000x1000.jpg?v=1603115269"
+      },
+      {
+        "id": 1,
+        "link": "https://gimsap.ca/collections/dry-food/products/fanta-300ml-bottle",
+        "name": "Fanta 300ml Glass Bottle",
+        "price": "1.75",
+        "description": "<p>Fanta is an orange flavored soft drink made by The Coca-Cola Company. It is available in over 100 countries and is the second most popular soda in the world.&nbsp;</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/81vXjO077mL._SY445_1000x1000.jpg?v=1647973626"
+      },
+      {
+        "id": 2,
+        "link": "https://gimsap.ca/collections/dry-food/products/the-noble-plantain-chips-naturally-sweet-130g",
+        "name": "Noble Plantain Chips - Naturally Sweet",
+        "price": "2.50",
+        "description": "<p>The Noble Plantain Chips are a great way to enjoy a healthy snack. The chips are made from the whole plantain, with no artificial flavors or preservatives. They are a great alternative to chips that are full of chemicals and sodium. These chips are all natural and contain only 130 calories per serving. The Noble Plantain chips are also gluten free and vegan.</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_e513d503-a2f2-455f-9b5f-d7e7b70ee3b5_1000x1000.jpg?v=1645137960"
+      },
+      {
+        "id": 3,
+        "link": "https://gimsap.ca/collections/dry-food/products/the-noble-plantain-chips-green-130g",
+        "name": "Noble Plantain Chips - Green",
+        "price": "2.50",
+        "description": "<p>Nibble on a handful of these unripe chips for a wholesome snack. These chips are made from plantain, a starchy, gluten-free vegetable. Plantains are a great source of potassium, magnesium, and vitamin C. They are high in fiber and low in calories. These chips are lightly salted and low in sodium. They contain no trans fats.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_3cc7310a-6faf-4cb3-a0b8-b917dd910b43_1000x1000.jpg?v=1645137958"
+      },
+      {
+        "id": 4,
+        "link": "https://gimsap.ca/collections/dry-food/products/box-golden-morn-1kg-maize-soya",
+        "name": "Golden Morn  (Maize &amp; Soya)",
+        "price": "9.99",
+        "description": "<p>Golden Morn is a healthy, convenient, and sustainable meal that is packed with the essential nutrients needed for good health. The ingredients are sourced from various locations. It can be used as a healthy meal or as a protein-rich snack. Golden Morn is perfect for on-the-go, work, or school.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_c6bcc8da-163e-4922-be59-57c2bccfb439_1000x1000.jpg?v=1645129884"
+      },
+      {
+        "id": 5,
+        "link": "https://gimsap.ca/collections/dry-food/products/the-noble-plantain-chips-spicy-130g",
+        "name": "Noble Plantain Chips - Spicy",
+        "price": "2.50",
+        "description": "<p>Noble Spicy Plantain Chips.&nbsp;<span >Naturally Sweet with a kick � for those who live for the spice.</span></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/noble_chips-bag-mockup-01-spicy_1000x1000.png?v=1644956843"
+      },
+      {
+        "id": 6,
+        "link": "https://gimsap.ca/collections/dry-food/products/amazing-grace-chin-chin",
+        "name": "Amazing Grace Chin Chin",
+        "price": "7.99",
+        "description": "",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/iu-29_1000x1000.jpg?v=1606149786"
+      },
+      {
+        "id": 7,
+        "link": "https://gimsap.ca/collections/dry-food/products/snack-alive-chin-chin",
+        "name": "Snack Alive Chin Chin",
+        "price": "5.50",
+        "description": "250g. Locally made. Support Local",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/iu-31_1000x1000.jpg?v=1606149590"
+      },
+      {
+        "id": 8,
+        "link": "https://gimsap.ca/collections/dry-food/products/groundnut-peanuts",
+        "name": "Groundnut (Peanuts)",
+        "price": "9.00",
+        "description": "Roasted peanuts or groundnuts in a bottle.",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/iu-26_1000x1000.jpg?v=1606148486"
+      },
+      {
+        "id": 9,
+        "link": "https://gimsap.ca/collections/dry-food/products/mr-johns-regular-plantain-chips",
+        "name": "Mr. John's Regular Plantain Chips",
+        "price": "1.50",
+        "description": "Premium quality plantains fried with pure canola oil and packed immediately to preserve freshness. Lightly salted unripe plantains chips. Gluten Free. 100% Natural Ingredients.",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/Mock_Up_MrJ_REG_REV3_1000x1000.jpg?v=1603115502"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Oils &amp; Spices",
+    "link": "https://gimsap.ca/collections/oils-spices",
+    "image": "https://cdn.shopify.com/s/files/1/0495/6933/3413/collections/iu-35_1000x1000.png?v=1606144271",
+    "products": [
+      {
+        "id": 0,
+        "link": "https://gimsap.ca/collections/oils-spices/products/habanero-pepper-per-lb-ata-rodo",
+        "name": "Habanero Pepper (Ata Rodo)",
+        "price": "5.00",
+        "description": "<p>The Habanero pepper is a red chili pepper. The peppers are hot and spicy, but the flavor can be diminished by soaking the peppers in vinegar or lemon juice. The Habanero pepper has a flavor that is described as fruity and sweet with a bit of smokiness. The peppers are used in sauces, in soups, in salsa, and more. They are also used to make Habanero sauce.&nbsp;</p>\n<p><span>This spicy pepper is not for the faint of heart. It has a Scoville heat rating of 100,000 units. The heat is so intense that many people will only use a little bit at a time. It is a member of the Capsicum family and is a perennial in tropical climates. The Habanero Pepper originated in Central America and is now grown in the US.</span></p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_63c3097b-031f-4516-9949-670ffd080b9d_1000x1000.jpg?v=1645134098"
+      },
+      {
+        "id": 1,
+        "link": "https://gimsap.ca/collections/oils-spices/products/dried-bitter-leaf-lb",
+        "name": "Dried Bitter Leaf",
+        "price": "5.00",
+        "description": "<p>Dried Bitter Leaf is a highly sought after ingredient. The name of the leaf is often associated with the name of the herb, and the herb is often used to flavor foods. It is often used in fish dishes and it is said to have a delicate flavor.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_f1c7e4a5-4fc5-4b4f-9c50-ac7830c39083_1000x1000.jpg?v=1645133817"
+      },
+      {
+        "id": 2,
+        "link": "https://gimsap.ca/collections/oils-spices/products/knorr-powder-chicken-6x1-14kg",
+        "name": "Knorr Chicken Powder 1.14kg",
+        "price": "17.99",
+        "description": "<p>Knorr is a brand of soup mixes, seasonings, and convenience foods. They are most well-known for their dried soup mixes. These packets of dry ingredients make it easy to cook delicious, home-cooked meals. Knorr has been in business since 1887. Knorr Chicken is a dried soup mix that makes it easy to create a home-cooked meal. The chicken flavor is made with a creamy soup base and enriched with protein and vitamins. The product is made with high-quality ingredients, which makes it easy to create a delicious meal. The product is free from artificial colors, flavors, and preservatives. This product can be served with a variety of side dishes. The ingredients in this product are: dehydrated potatoes, dried onion, powdered chicken, powdered carrot, powdered celery, dried parsley, salt, sugar, dried chives, and natural flavors. Knorr Chicken is a convenient and flavorful soup mix that can be served with a variety of side dishes.</p><p></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/71j5H61VohL._AC_SX425_1000x1000.jpg?v=1647373659"
+      },
+      {
+        "id": 3,
+        "link": "https://gimsap.ca/collections/oils-spices/products/grounded-pepper-small-150g",
+        "name": "Grounded Pepper Small 150g",
+        "price": "5.99",
+        "description": "<p>Grounded Pepper Small 150g is a premium quality pepper that is suitable for any dish. Grounded Pepper is a mix of red and black pepper that is grounded, creating a finer grind than most other pepper products. The result is a smooth, consistent texture that provides the perfect balance of flavor and heat. Grounded Pepper can be used in any dish, but is especially good in chicken dishes, grilled vegetables, salads, and soups.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_dff55a3b-4e8f-4151-b27a-6c086e709227_1000x1000.jpg?v=1645134069"
+      },
+      {
+        "id": 4,
+        "link": "https://gimsap.ca/collections/oils-spices/products/goya-olive-oil",
+        "name": "Goya Olive Oil",
+        "price": "4.99",
+        "description": "<p>Goya Olive Oil is the best quality olive oil that can be found in the market. It is an excellent choice for all types of cooking, but is especially good for making aioli, salad dressings, and cold sauces. The oil is made from 100% pure and natural olives, and is made with no artificial colors or flavors. The oil has a rich, golden color and a delicate, fruity flavor.</p><p></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_0d604403-fb18-44fe-b870-f3024624fd55_1000x1000.jpg?v=1645134045"
+      },
+      {
+        "id": 5,
+        "link": "https://gimsap.ca/collections/oils-spices/products/benny-17g-powdered-chicken-flavour",
+        "name": "Benny 17g Powdered Chicken Flavour",
+        "price": "0.99",
+        "description": "<p>Benny 17g Powdered Chicken Flavour</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_42e179b1-bcd1-4fa5-a9fc-0b80c25bd059_1000x1000.jpg?v=1645128013"
+      },
+      {
+        "id": 6,
+        "link": "https://gimsap.ca/collections/oils-spices/products/okomu-palm-oil",
+        "name": "Palm Oil (Okomu)",
+        "price": "12.50",
+        "description": "<span>Okomu Palm Oil is produced in West Africa from high quality palm nut, and is excellent for cooking your favourite recipes.</span>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/iu-20_1000x1000.jpg?v=1606143706"
+      },
+      {
+        "id": 7,
+        "link": "https://gimsap.ca/collections/oils-spices/products/ghana-fresh-palmnut-cream-concentrate",
+        "name": "Ghana Fresh Palmnut Cream Concentrate",
+        "price": "5.99",
+        "description": "Made<span >&nbsp;from freshly squeezed palm nut juice. Used in preparation of banga soup - a popular West African dish.</span>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/iu-38_1000x1000.png?v=1606143024"
+      },
+      {
+        "id": 8,
+        "link": "https://gimsap.ca/collections/oils-spices/products/copy-of-knorr-seasoning-cubes-chicken",
+        "name": "Knorr Seasoning Cubes - Chicken",
+        "price": "14.50",
+        "description": "Special blend of spices, combined into a cube. Ideal as a soup base and for a variety of other dishes.",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/KNORRCHICKENCUBES_1200x1200_6eb16e59-92ed-426e-ac31-390c15c4939b_1000x1000.jpg?v=1606142280"
+      },
+      {
+        "id": 9,
+        "link": "https://gimsap.ca/collections/oils-spices/products/knorr-seasoning-cubes-classic",
+        "name": "Knorr Seasoning Cubes - Classic",
+        "price": "12.99",
+        "description": "Special blend of spices, combined into a cube. Ideal as a soup base and for a variety of other dishes.",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/iu-39_1000x1000.png?v=1606142174"
+      },
+      {
+        "id": 10,
+        "link": "https://gimsap.ca/collections/oils-spices/products/maggi-star-seasoning-cubes",
+        "name": "Maggi Star Seasoning Cubes",
+        "price": "10.00",
+        "description": "Seasoning for soups, stews, grills, marinades, etc.",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/iu-40_1000x1000.png?v=1606141954"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Grains",
+    "link": "https://gimsap.ca/collections/frontpage",
+    "image": "https://cdn.shopify.com/s/files/1/0495/6933/3413/collections/iu-7_1000x1000.jpg?v=1606149125",
+    "products": [
+      {
+        "id": 0,
+        "link": "https://gimsap.ca/collections/frontpage/products/par-excellence-rice-40kg",
+        "name": "Par Excellence Parboiled Rice 40kg",
+        "price": "78.00",
+        "description": "<p>When it comes to rice, Par Excellence Rice is the best! This product is the perfect choice for anyone who wants to have a healthy and balanced diet. With 40kg of rice, this product will last you for a long time. It is perfect for large families or households that love to cook. Par Excellence Rice is affordable and great for anyone who wants to cook a delicious meal. This product is so delicious that you will want to make it a part of your daily routine.</p><p></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_af9980b4-db4b-4986-a240-57c2a9e90731_1000x1000.jpg?v=1645134761"
+      },
+      {
+        "id": 1,
+        "link": "https://gimsap.ca/collections/frontpage/products/par-excellence-rice-20kg",
+        "name": "Par Excellence Parboiled Rice 20kg",
+        "price": "39.99",
+        "description": "<p>Par Excellence Parboiled Rice is a 20kg bag of premium rice. It is grown in the fertile soil of the Philippines, and is cultivated with the best care. The result is a sweet, white rice that cooks up perfectly every time. This white rice is available is the perfect addition to any dish. Whether you're cooking a soup, or preparing a traditional dish, this rice will be a hit. It is easy to cook, and has a great taste.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_ce20e9a2-a3a0-4be9-8e2a-9dd3352fff0a_1000x1000.jpg?v=1645134760"
+      },
+      {
+        "id": 2,
+        "link": "https://gimsap.ca/collections/frontpage/products/white-beans-50lbs-todaj",
+        "name": "White Beans",
+        "price": "13.00",
+        "description": "<p><span >White beans are a small, round, white legume. White beans are great for making hearty soups, such as white bean soup. They are typically used in salads, soups, and other dishes; and&nbsp;are a great source of protein and fiber.&nbsp;They are additionally low in sodium and high in iron.</span></p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/black-eyed-peas_1000x1000.jpg?v=1647556884"
+      },
+      {
+        "id": 3,
+        "link": "https://gimsap.ca/collections/frontpage/products/box-4lbs-ola-ola-pounded-yam",
+        "name": "Ola Ola Pounded Yam",
+        "price": "6.99",
+        "description": "<p>Ola Ola Pounded Yam is one of the best in the market. It is finely pounded and very flavorful.&nbsp;<span >A popular dish in West Africa, pounded yam is often served with fish, okra, and other vegetables. This product is perfect for serving with a hearty soup, stew, or pepper sauce.&nbsp;It</span>&nbsp;is convenient to store and use, and it can be eaten alone or with any dish.<span ></span></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_b0a3575d-0a91-4ce8-ab24-d89a1b44e66d_1000x1000.jpg?v=1645129892"
+      },
+      {
+        "id": 4,
+        "link": "https://gimsap.ca/collections/frontpage/products/nmasky-maize-cereal-brown-frozen-ogi",
+        "name": "Nmasky Maize Cereal - Brown (Frozen Ogi)",
+        "price": "6.50",
+        "description": "Pap. Ogi. Akamu. Locally made with premium ingredients. Shop&nbsp;Local.\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/mychopchop-most-trusted-best-online-grocery-store-canada-edo-palmoil-garri-ogi-1465_700x700_04975076-27c7-4797-994c-973cb2db6044_1000x1000.jpg?v=1647553950"
+      },
+      {
+        "id": 5,
+        "link": "https://gimsap.ca/collections/frontpage/products/nmasky-maize-cereal-yellow-frozen-ogi",
+        "name": "Nmasky Maize Cereal - Yellow (Frozen Ogi)",
+        "price": "6.50",
+        "description": "Pap. Ogi. Akamu. Locally made with premium ingredients. Shop&nbsp;Local.\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/mychopchop-most-trusted-best-online-grocery-store-canada-edo-palmoil-garri-ogi-1465_700x700_a2e12aab-706e-47d1-ad19-3d84de550cc1_1000x1000.jpg?v=1647553799"
+      },
+      {
+        "id": 6,
+        "link": "https://gimsap.ca/collections/frontpage/products/nmasky-pap-ogi-frozen-medium",
+        "name": "Nmasky Maize Cereal - White (Frozen Ogi)",
+        "price": "6.50",
+        "description": "Pap. Ogi. Akamu. Locally made with premium ingredients. Shop&nbsp;Local.\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_77a51986-5cec-4597-8f81-f1b65ba20599_1000x1000.jpg?v=1645134570"
+      },
+      {
+        "id": 7,
+        "link": "https://gimsap.ca/collections/frontpage/products/tastypot-ogi-40x500g-white-maize-powder",
+        "name": "Tastypot Ogi 500g White Maize Powder",
+        "price": "5.50",
+        "description": "<p>Tastypot Ogi is a premium, organic, all-natural, gluten-free, whole grain, non-GMO corn flour. This product is milled from 100% organic, non-GMO corn and has a creamy, rich flavor. It is gluten-free and contains no added sugar or salt. It is perfect for those who are allergic to gluten or those who are looking for a healthier option. Tastypot Ogi is a healthy and natural alternative to flour and corn starch.</p><p></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_28d67ebd-67bc-4b63-83d5-7fcd99f96b54_1000x1000.jpg?v=1645137945"
+      },
+      {
+        "id": 8,
+        "link": "https://gimsap.ca/collections/frontpage/products/tastypot-ogi-40x500g-yellow-maize-powder",
+        "name": "Tastypot Ogi 500g Yellow Maize Powder",
+        "price": "5.50",
+        "description": "<p>Ogi is a yellow maize powder, made from the flour of dried, ground maize kernels. This product is a gluten-free, vegan, and high-fiber ingredient. It can be used in soups, sauces, desserts, and more.</p><p></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_55cbb1bb-eb89-460a-adcf-40ac45b6a187_1000x1000.jpg?v=1645137946"
+      },
+      {
+        "id": 9,
+        "link": "https://gimsap.ca/collections/frontpage/products/tastypot-ogi-40x500g-brown-guinea-corn-powder",
+        "name": "Tastypot Ogi 500g Brown Guinea Corn Powder",
+        "price": "5.50",
+        "description": "<p>Tastypot Ogi-Pap-Akamu is a whole grain cereal that is used to make delicious dishes. Tastypot Ogi is made from brown guinea corn, which is a type of corn that is grown in Nigeria. Tastypot Ogi is made from corn that is stone-ground, so it retains the nutrients and fiber. Tastypot Ogi can be used in a variety of dishes, and can be made into porridge, soup, stew, and more. Tastypot Ogi is perfect for anyone who is looking for a gluten-free, nutrient-rich cereal.</p>\n<p><span >Tasty Pot Brown Guinea Corn Powder is a high quality and healthy product that is perfect for those who are looking for a substitute for wheat flour. It is made from 100% guinea corn and has a pleasant, sweet taste. It is also a great source of protein and fiber.&nbsp;</span></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_817590c3-c6f3-4b19-b6fa-f2610e59305b_1000x1000.jpg?v=1645137944"
+      },
+      {
+        "id": 10,
+        "link": "https://gimsap.ca/collections/frontpage/products/basmati-rice-10lbs",
+        "name": "Basmati Rice",
+        "price": "17.50",
+        "description": "<p>Maharani Basmati Rice is an aromatic rice with a nutty flavor and a distinctive, fluffy texture. It is a long-grain rice and is grown in the foothills of the Himalayas. Basmati Rice is perfect for pilafs, soups, and side dishes. It has a distinctive, fluffy texture and a nutty flavor. Basmati Rice is perfect for pilafs, soups, and side dishes.<span >&nbsp;The grains are slender and have a higher protein content than other rice varieties. Basmati Rice is typically used in Indian cuisine and is known for its distinctive flavor and aroma. Available in 10lb and 40lb bags.</span></p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/Maharani_Rice_10lbs_530x_2x_d3e685cf-a278-4e2e-9f42-ebf562b5e601_1000x1000.jpg?v=1647375962"
+      },
+      {
+        "id": 11,
+        "link": "https://gimsap.ca/collections/frontpage/products/box-golden-morn-1kg-maize-soya",
+        "name": "Golden Morn  (Maize &amp; Soya)",
+        "price": "9.99",
+        "description": "<p>Golden Morn is a healthy, convenient, and sustainable meal that is packed with the essential nutrients needed for good health. The ingredients are sourced from various locations. It can be used as a healthy meal or as a protein-rich snack. Golden Morn is perfect for on-the-go, work, or school.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_c6bcc8da-163e-4922-be59-57c2bccfb439_1000x1000.jpg?v=1645129884"
+      },
+      {
+        "id": 12,
+        "link": "https://gimsap.ca/collections/frontpage/products/adm-wheatlets-semolina-20kg",
+        "name": "ADM (wheatlets) semolina 20kg",
+        "price": "24.99",
+        "description": "<p>ADM&nbsp;(wheatlets) semolina 20kg This is a bag of wheatlets semolina. This product is the perfect addition to your morning cereal or oatmeal. Wheatlets are a high-quality, non-GMO product. It is a good source of protein and fiber. This product can be used in baking and in other dishes.</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/ScreenShot2022-03-16at12.19.19PM_1000x1000.png?v=1647454830"
+      },
+      {
+        "id": 13,
+        "link": "https://gimsap.ca/collections/frontpage/products/brown-beans",
+        "name": "Brown Beans",
+        "price": "13.50",
+        "description": "Brown (or Drum) Beans are dark brown and larger than honey beans. Our beans have been picked clean and are free from chemical preservatives. Ethically sourced.",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/1553702096_3_large_1d4dd249-3d71-461b-97c8-2e534da73c77_1000x1000.jpg?v=1606140593"
+      },
+      {
+        "id": 14,
+        "link": "https://gimsap.ca/collections/frontpage/products/honey-oloyin-beans",
+        "name": "Honey (Oloyin) Beans",
+        "price": "13.00",
+        "description": "Honey Beans (also known as ewa oloyin or nigerian brown beans) are a naturally sweet beans that are high in protein. Our beans have been picked clean and are free from chemical preservatives. Ethically sourced.",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/ScreenShot2022-03-17at3.18.06PM_1000x1000.png?v=1647551920"
+      },
+      {
+        "id": 15,
+        "link": "https://gimsap.ca/collections/frontpage/products/yellow-gari",
+        "name": "Yellow Gari",
+        "price": "9.00",
+        "description": "A West African staple made from granulated cassava tubers. It can be eaten in its dry form, soaked, or prepared with hot water.&nbsp;Yellow Gari is a coarse grain garri that has been fried with palm oil to achieve its yellow colour.",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/Yellow_Garri_1000x1000.jpg?v=1606139494"
+      },
+      {
+        "id": 16,
+        "link": "https://gimsap.ca/collections/frontpage/products/ghana-garri",
+        "name": "Ghana Gari",
+        "price": "9.00",
+        "description": "A West African staple made from granulated cassava tubers. It can be eaten in its dry form, soaked, or prepared with hot water.&nbsp;Ghana&nbsp;(or White) Gari is a traditional garri with coarse grain.",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/160431_2_1_-500x500_1000x1000.jpg?v=1606139428"
+      },
+      {
+        "id": 17,
+        "link": "https://gimsap.ca/collections/frontpage/products/ijebu-gari",
+        "name": "Ijebu Gari",
+        "price": "9.00",
+        "description": "A West African staple made from granulated cassava tubers. It can be eaten in its dry form, soaked, or prepared with hot water. Ijebu Gari has a pleasant sour taste and finer grain than other types of garri.",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/GARI_ijebu_1000x1000.jpg?v=1603147452"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Frozen Meats Fish &amp; Poultry",
+    "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry",
+    "image": "https://cdn.shopify.com/s/files/1/0495/6933/3413/collections/png-transparent-raw-foodism-lamb-and-mutton-meat-chop-loin-chop-meat-food-beef-cooking_1000x1000.png?v=1606145502",
+    "products": [
+      {
+        "id": 0,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/apple-snail",
+        "name": "Apple Snail",
+        "price": "4.99",
+        "description": "<span >The largest of freshwater snails, Apple Snails are found in tropical and subtropical wetlands worldwide.</span>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/APPSNAIL-NEW-1_1000x1000.png?v=1650387158"
+      },
+      {
+        "id": 1,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/croaker-fish-20kg-box",
+        "name": "Croaker Fish 25lb Box Headless",
+        "price": "124.00",
+        "description": "<p>Croaker Fish&nbsp;is the perfect solution for your needs. It is a fresh and sustainable fish that is high in protein and a great source of Omega-3. With a great taste and easy to prepare, this Croaker Fish box is perfect for any occasion.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_7051409a-c243-4e3a-b03e-44d8d7cd9ec2_1000x1000.jpg?v=1645133734"
+      },
+      {
+        "id": 2,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/mackerel-lb",
+        "name": "Mackerel",
+        "price": "10.00",
+        "description": "<p>&nbsp;</p>\n<p><span>Mackerel is a delicious oily fish, known for both for its iridescent skin and rich flavour. Mackerel is a nutritious fish&nbsp;with high levels of essential fatty acids, which improve endurance, aid in recovery after exercise, and help to maintain beautiful skin.&nbsp;</span></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_300795b0-2fd1-41b5-9f4a-27072f016eb0_1000x1000.jpg?v=1645134368"
+      },
+      {
+        "id": 3,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/mackerel-15kg",
+        "name": "Mackerel 5kg",
+        "price": "40.00",
+        "description": "<p>&nbsp;</p>\n<p><span>Mackerel is a delicious oily fish, known for both for its iridescent skin and rich flavour. Mackerel is a nutritious fish&nbsp;with high levels of essential fatty acids, which improve endurance, aid in recovery after exercise, and help to maintain beautiful skin.&nbsp;</span></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_aec19046-579b-425e-a2f9-c6a78db49018_1000x1000.jpg?v=1645134359"
+      },
+      {
+        "id": 4,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/mackerel-10kg",
+        "name": "Mackerel 10kg",
+        "price": "75.00",
+        "description": "<p>&nbsp;</p>\n<p><span>Mackerel is a delicious oily fish, known for both for its iridescent skin and rich flavour. Mackerel is a nutritious fish&nbsp;with high levels of essential fatty acids, which improve endurance, aid in recovery after exercise, and help to maintain beautiful skin.&nbsp;</span></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_3b568b98-1e85-4297-aef2-ba08454b72d8_1000x1000.jpg?v=1645134356"
+      },
+      {
+        "id": 5,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/mackerel-20kg-norway",
+        "name": "Mackerel 20kg (Norway)",
+        "price": "145.00",
+        "description": "<p>&nbsp;</p>\n<p><span>Mackerel is a delicious oily fish, known for both for its iridescent skin and rich flavour. Mackerel is a nutritious fish&nbsp;with high levels of essential fatty acids, which improve endurance, aid in recovery after exercise, and helps to maintain beautiful skin. Norway is know as having the best mackerel. A mackerel caught in Norwegian waters is bigger, fatter, and of higher quality than those caught in the waters of the Faroe Islands or Iceland.&nbsp;</span></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/Atlantic_Mackerel_2800x_dced9f64-fe32-4d1c-a61d-f32827cecc00_1000x1000.png?v=1648059837"
+      },
+      {
+        "id": 6,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/catfish-ww-8kg-17-6-lb-box",
+        "name": "Frozen Catfish 18lb Box",
+        "price": "50.00",
+        "description": "<p>The frozen 18lb catfish box is the perfect box for anyone who loves the taste of delicious, soft, white catfish. This box is packed with&nbsp;18 lb of catfish, and it's a great way to enjoy this popular fish without having to spend a lot of money. Catfish is a delicious fish that's often used in dishes like catfish tacos, catfish stew, and catfish fillets. The fish are 500-800g.&nbsp;</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_eb9840af-954a-43f6-a834-2b96a17d955b_1000x1000.jpg?v=1645133587"
+      },
+      {
+        "id": 7,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/turkey-wings-5kg-uncut-superior",
+        "name": "Jumbo Turkey Wings 5kg",
+        "price": "26.00",
+        "description": "<p>The turkey wings are about the size of a small human arm. These wings are cut and not cut, so they are still whole, but you have the option to cut them as you see fit. The turkey wings are covered in a tasty and thick layer of a delicious marinade that is sure to leave your mouth watering. These wings are perfect for a barbecue or other party because they are so large and come in a 5kg package.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/turkey-wings_1000x1000.jpg?v=1647977567"
+      },
+      {
+        "id": 8,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/beef-tripe-lb",
+        "name": "Beef tripe",
+        "price": "10.00",
+        "description": "<p>This is the stomach of a cow that has been cleaned and stripped of its outer lining.&nbsp; The lining of the stomach can be boiled and eaten, or used in dishes such as pot pie, meatloaf, and more. Beef tripe is a great alternative to ground beef in recipes.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/956984e67b58b55f4c0b209efaf55232_1000x1000.jpg?v=1647552760"
+      },
+      {
+        "id": 9,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/beef-tripe-box-50lb-uncut",
+        "name": "Beef Tripe Box 50lb",
+        "price": "150.00",
+        "description": "<p>This product is a box of frozen cleaned beef tripe. Beef tripe is&nbsp;the edible lining of the stomach of a cow. Beef tripe is sold raw and can be cooked to create a variety of dishes.&nbsp;</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/ScreenShot2022-03-15at3.57.25PM_1000x1000.png?v=1647381495"
+      },
+      {
+        "id": 10,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/red-snapper-10lbs-box-white-box",
+        "name": "Red Snapper 10lb Box",
+        "price": "79.99",
+        "description": "<p>This product is a box of red snapper, weighing 10lbs. The red snapper is caught by the fishing boat, individually frozen, then stored in the freezer until it is sold. The red snapper can be cooked in many different ways, but&nbsp;a customer favorite is to grill it. The fish are available in small, medium and large.</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_147514d8-a057-41b2-83e6-4dde29f7e673_1000x1000.jpg?v=1645134905"
+      },
+      {
+        "id": 11,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/chicken-gizzard-lb",
+        "name": "Chicken Gizzard",
+        "price": "5.00",
+        "description": "<p>A popular street food in many countries, chicken gizzards are a delicacy that should not be missed. Sold by the pound, chicken gizzards are one of the cheapest cuts of meat and are perfect for those on a budget. Though some people are not fond of the taste, chicken gizzards are easy to cook and make a tasty, protein-rich addition to any meal. Chicken gizzards are rich in nutrients, including protein, iron, and zinc.</p><p></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_4c9e3302-ded4-4f7f-8b38-38cd93400b1c_1000x1000.jpg?v=1645133621"
+      },
+      {
+        "id": 12,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/chicken-gizzard-10kg-box",
+        "name": "Chicken Gizzards 40lb Box",
+        "price": "125.00",
+        "description": "<p>If you're looking for a low-fat, high-protein option for your next meal, then look no further than this&nbsp;40lb box of chicken gizzards. They're a tasty and nutritious alternative to chicken breast and will give you the energy you need to power through your day.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_d3b43226-3eb0-4eed-a169-f6c4dfd75311_1000x1000.jpg?v=1645133618"
+      },
+      {
+        "id": 13,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/whole-hard-chicken-small-cut-chicken",
+        "name": "Whole Small Hard Chicken Cut",
+        "price": "25.00",
+        "description": "Local Farm Hard Chicken cut into ready to cook pieces\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/item00282-1024x683_1000x1000.png?v=1647553602"
+      },
+      {
+        "id": 14,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/whole-hard-chicken-small-uncut-chicken",
+        "name": "Whole Small Hard Chicken Uncut",
+        "price": "4.50",
+        "description": "Local Farm Small Hard Chicken\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_a53258ec-19d2-495c-983d-b716a842881b_1000x1000.jpg?v=1645138149"
+      },
+      {
+        "id": 15,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/chicken-drumstick-maple-leaf-19-29kg",
+        "name": "Chicken Drumstick 18kg",
+        "price": "85.00",
+        "description": "<p><span >Soft Chicken Drumstick. Tired of fighting with your kids over who gets the drumstick? Well, this bulk pack of chicken drumsticks is perfect for you! The package&nbsp;will provide enough food for your family to enjoy. This bulk pack is a great buy for your family and will provide a great source of protein and nutrients.&nbsp;</span>Maple Leaf Foods is a Canadian company that specializes in poultry and meat products. Maple Leaf Foods has been a family-owned company since its founding in 1931.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/ChickenDrum_1000x1000.jpg?v=1647369098"
+      },
+      {
+        "id": 16,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/chicken-drumstick-5kg",
+        "name": "Chicken Drumstick 10lb",
+        "price": "25.00",
+        "description": "<p>Soft Chicken Drumsticks. If you are looking for a flavorful and juicy chicken, the chicken drumstick is the perfect choice. With a price that won't break the bank, these drumsticks are perfect for any home chef. Cooked to perfection, this chicken is always juicy and full of flavor.&nbsp;With easy to follow recipes, it is sure to satisfy your taste buds.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_25550a08-bb3d-4d83-a546-762f25f71747_1000x1000.jpg?v=1645133615"
+      },
+      {
+        "id": 17,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/farm-goat-burnt-lb",
+        "name": "Burnt Farm Goat Meat",
+        "price": "15.00",
+        "description": "<p>Mouthwatering&nbsp;goat meat with burnt skin.&nbsp;Cut into ready to cook chunks.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/goat-meat-skin-frozen_1000x1000.jpg?v=1646868908"
+      },
+      {
+        "id": 18,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/chicken-wings-superior-10kg",
+        "name": "Chicken Wings 10kg",
+        "price": "41.50",
+        "description": "<p><span >What could be better than a pack of 10kg of crispy, crunchy, delicious chicken wings? These are the perfect dish for a party, game day, or anytime you're looking for a hearty meal. They're great for snacks too!&nbsp;</span>Season these wings with a sweet and spicy sauce, that will make any night a night to remember.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_7cb7f911-f1c4-4672-9476-535a022d62c4_1000x1000.jpg?v=1645133626"
+      },
+      {
+        "id": 19,
+        "link": "https://gimsap.ca/collections/frozen-meats-fish-poultry/products/turkey-wings-5kg-cut-superior",
+        "name": "Turkey Wings 5kg",
+        "price": "24.00",
+        "description": "<p>5kg Superior Turkey Wings. What is better than eating a delicious Thanksgiving dinner? Enjoying it while snacking on the best appetizer ever: Turkey Wings! These delicious treats are great for any party or event, and are a fun way to get your guests in the mood for the festivities. For a small, additional fee, we can make these wings gluten-free. We can also make them spicy or mild. These wings are available whole and cut.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_5b4698bd-e547-4190-af67-76d124cde833_1000x1000.jpg?v=1645138039"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Frozen Vegetables",
+    "link": "https://gimsap.ca/collections/frozen-vegetables",
+    "image": "https://cdn.shopify.com/s/files/1/0495/6933/3413/collections/iu-44_1000x1000.png?v=1606145937",
+    "products": [
+      {
+        "id": 0,
+        "link": "https://gimsap.ca/collections/frozen-vegetables/products/safou-plum-500g",
+        "name": "Safou (African Pear)",
+        "price": "8.50",
+        "description": "<p>Safou is a hard-shelled fruit that is a cross between a plum and an apricot. Safou is rich in fiber, Vitamin C, and minerals. Safou is used in many different recipes including tarts, pies, and compotes. Safou is a delicious fruit that can be eaten on its own or used in many different recipes.&nbsp;</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/shutterstock_120997516_1000x1000.jpg?v=1647553044"
+      },
+      {
+        "id": 1,
+        "link": "https://gimsap.ca/collections/frozen-vegetables/products/frozen-cassava",
+        "name": "Frozen Cassava (Yuca)",
+        "price": "2.49",
+        "description": "<p>Cassava is a tropical root vegetable that is a major food staple in Africa, Latin America, and Southeast Asia. It is high in starch and low in fat, making it a good choice for those looking to maintain a healthy diet. Cassava is usually boiled, baked, or fried. Frozen cassava is a ready-to-eat product that can be microwaved or baked. It is packaged in a plastic wrap with a resealable top. Frozen cassava is an excellent alternative to fresh cassava as it is easy to store and lasts for months.</p><p></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_b96344cc-53b3-46dc-bc51-97b69c6b04b2_1000x1000.jpg?v=1645133957"
+      },
+      {
+        "id": 2,
+        "link": "https://gimsap.ca/collections/frozen-vegetables/products/bitter-leaf-ndole",
+        "name": "Frozen Bitter Leaf (Ndole)",
+        "price": "5.99",
+        "description": "<p>Bitter leaf is an herbal ingredient that have been used for centuries to support a healthy, active lifestyle.&nbsp;<span >Bitter Leaves, a type of herb, are made from the leaves of the artemisia plant.&nbsp;It is often used as a tea, but is also popular in sauces, as a spice, and in salads.&nbsp;</span></p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/ScreenShot2022-03-16at5.01.16PM_1000x1000.png?v=1647471707"
+      },
+      {
+        "id": 3,
+        "link": "https://gimsap.ca/collections/frozen-vegetables/products/ugu-leaves-bened-500g",
+        "name": "Frozen Ugu Leaves",
+        "price": "6.99",
+        "description": "<p>Ugu leaves are a tree-like plant that is native to East Africa. It is typically found in the central region of Kenya. Ugu leaves are often used as a flavoring in a variety of dishes, as well as in herbal medicine. The Ugu leaves are harvested when they are still green and then dried. Ugu leaves have a very strong and distinct flavor that is often described as earthy. Ugu leaves are a very unique and versatile ingredient. They can be used in any dish that needs a bit of extra flavor, such as curry, chili, or stew. The leaves can also be added to herbal tea to help relieve cold symptoms.&nbsp;</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_d7d2a57f-978b-42e3-b40e-f0bedae4f011_1000x1000.jpg?v=1645138049"
+      },
+      {
+        "id": 4,
+        "link": "https://gimsap.ca/collections/frozen-vegetables/products/molokhia-ewedu",
+        "name": "Molokhia (Ewedu)",
+        "price": "2.75",
+        "description": "<p>Frozen Chopped Molokhia/Jute/Ewedu leaves. Great for authentic soups.&nbsp;</p>\n<p><span >Ewedu is a Nigerian dish that consists of a stew made with&nbsp; a local shrub called 'ewedu' which is then used to flavor the dish. The dish is traditionally served with boiled yams, plantains, or rice.</span></p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/cedar-molokhia-375g_large_bbed1787-6389-4ec2-8cad-f76d42314860_1000x1000.jpg?v=1646865003"
+      },
+      {
+        "id": 5,
+        "link": "https://gimsap.ca/collections/frozen-vegetables/products/spinach",
+        "name": "Spinach",
+        "price": "4.00",
+        "description": "Available per bag or in a box of 12.",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/iu-48_1000x1000.png?v=1606146757"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Fresh Produce",
+    "link": "https://gimsap.ca/collections/fresh-produce",
+    "image": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_63c3097b-031f-4516-9949-670ffd080b9d_1000x1000.jpg?v=1645134098",
+    "products": [
+      {
+        "id": 0,
+        "link": "https://gimsap.ca/collections/fresh-produce/products/habanero-pepper-per-lb-ata-rodo",
+        "name": "Habanero Pepper (Ata Rodo)",
+        "price": "5.00",
+        "description": "<p>The Habanero pepper is a red chili pepper. The peppers are hot and spicy, but the flavor can be diminished by soaking the peppers in vinegar or lemon juice. The Habanero pepper has a flavor that is described as fruity and sweet with a bit of smokiness. The peppers are used in sauces, in soups, in salsa, and more. They are also used to make Habanero sauce.&nbsp;</p>\n<p><span>This spicy pepper is not for the faint of heart. It has a Scoville heat rating of 100,000 units. The heat is so intense that many people will only use a little bit at a time. It is a member of the Capsicum family and is a perennial in tropical climates. The Habanero Pepper originated in Central America and is now grown in the US.</span></p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_63c3097b-031f-4516-9949-670ffd080b9d_1000x1000.jpg?v=1645134098"
+      },
+      {
+        "id": 1,
+        "link": "https://gimsap.ca/collections/fresh-produce/products/fresh-yam-box",
+        "name": "Fresh Yam",
+        "price": "22.50",
+        "description": "<p>Fresh Yam Box</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_bad484bc-ef40-4004-b443-39af3736ab30_1000x1000.jpg?v=1645133949"
+      },
+      {
+        "id": 2,
+        "link": "https://gimsap.ca/collections/fresh-produce/products/yam",
+        "name": "Yam",
+        "price": "3.25",
+        "description": "<p>The yam is a tuberous root vegetable that is a staple in many African, Caribbean, and Asian cuisines. The yam is a round or oval root vegetable that is dark brown or black in color. The yam is the most important carbohydrate crop in the West African region and is grown in many other tropical countries. The yam is a round or oval root vegetable that is dark brown or black in color. It is the most important carbohydrate crop in the West African region and is grown in many other tropical countries. Yams are grown for their edible, starchy tuberous roots, which can grow to between one and three feet in length.</p><p></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/iu-47_1000x1000.png?v=1606146489"
+      },
+      {
+        "id": 3,
+        "link": "https://gimsap.ca/collections/fresh-produce/products/plantain",
+        "name": "Plantain",
+        "price": "1.25",
+        "description": "Sold per pound. Green (Unripe) or Yellow (Ripe) options based on availability.",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/iu-46_1000x1000.png?v=1606146291"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Beverages",
+    "link": "https://gimsap.ca/collections/beverages-1",
+    "image": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/81vXjO077mL._SY445_1000x1000.jpg?v=1647973626",
+    "products": [
+      {
+        "id": 0,
+        "link": "https://gimsap.ca/collections/beverages-1/products/fanta-300ml-bottle",
+        "name": "Fanta 300ml Glass Bottle",
+        "price": "1.75",
+        "description": "<p>Fanta is an orange flavored soft drink made by The Coca-Cola Company. It is available in over 100 countries and is the second most popular soda in the world.&nbsp;</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/81vXjO077mL._SY445_1000x1000.jpg?v=1647973626"
+      },
+      {
+        "id": 1,
+        "link": "https://gimsap.ca/collections/beverages-1/products/nido-900g-powdered-milk",
+        "name": "Nido Milk Powder",
+        "price": "14.99",
+        "description": "<p>&nbsp;</p>\n<p>The<span>&nbsp;</span><em>Nido</em><span>&nbsp;</span>brand is trusted by mothers, with a taste that kids love. With its focus on providing a nutritional foundation for growth and development,<span>&nbsp;</span><em>Nido</em><span>&nbsp;</span>brand has been helping mums around the world care for and nurture children for the past 70 years.&nbsp;<em>Nido</em><span>&nbsp;</span>products feature instant dry whole milk with Vitamins A &amp; D. It is a good source of calcium to help children develop and maintain healthy bones and teeth.</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_f64f762c-f097-4b5f-b3cb-a48305733ea2_1000x1000.jpg?v=1645134563"
+      },
+      {
+        "id": 2,
+        "link": "https://gimsap.ca/collections/beverages-1/products/liquid-peak-evaporated-milk-48x156ml",
+        "name": "Liquid Peak Evaporated Milk",
+        "price": "2.50",
+        "description": "<p>Liquid Peak Evaporated Milk is a traditional, creamy, and rich evaporated milk. This product is gluten-free, kosher, and has no added sugar. It is available in a 380mL and 158mL can. This product is a staple in any kitchen, and it is also used in many recipes.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_3dc5bf3f-c430-4eff-945f-d1e1fc3f19c5_1000x1000.jpg?v=1645134328"
+      },
+      {
+        "id": 3,
+        "link": "https://gimsap.ca/collections/beverages-1/products/peak-900g-powdered-milk",
+        "name": "Peak Milk Powder",
+        "price": "14.99",
+        "description": "<p>Peak Powdered Milk is a high-quality powdered milk, which can be reconstituted with water and stored for up to 12 months. The convenience of this product is in its versatility and long shelf life. The milk can be reconstituted with cold or hot water, and can be stored in the refrigerator or the freezer. The milk is also fortified with vitamin D&nbsp;and calcium.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/91NY62PfSfL._AC_SL1500_1000x1000.jpg?v=1647459608"
+      },
+      {
+        "id": 4,
+        "link": "https://gimsap.ca/collections/beverages-1/products/3-horses-malt-24-can",
+        "name": "3 Horses Malt Can",
+        "price": "1.75",
+        "description": "<p>3 Horses dark malt beverage</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/3-horses_can_Single_1000x1000.jpg?v=1644954416"
+      },
+      {
+        "id": 5,
+        "link": "https://gimsap.ca/collections/beverages-1/products/lucozade-900ml-energy",
+        "name": "Lucozade 900mL Original",
+        "price": "6.00",
+        "description": "<p>Lucozade 900mL Energy</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/LucozadeOriginal_1000x1000.jpg?v=1644953909"
+      },
+      {
+        "id": 6,
+        "link": "https://gimsap.ca/collections/beverages-1/products/maltex",
+        "name": "Maltex",
+        "price": "2.00",
+        "description": "Malt Beverage",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/iu-23_1000x1000.jpg?v=1606147813"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Beauty Products",
+    "link": "https://gimsap.ca/collections/beverages",
+    "image": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/924e0f6e-709b-4ce8-ac3e-8133fd0d1724_1.62c8e6d292460fa33ed5ec14f343609f_1000x1000.jpg?v=1644957926",
+    "products": [
+      {
+        "id": 0,
+        "link": "https://gimsap.ca/collections/beverages/products/african-pride-braid-spray-extra-shine-12oz",
+        "name": "African Pride Braid Spray Extra Shine (12oz)",
+        "price": "9.50",
+        "description": "<p>African Pride Braid Spray Extra Shine (12oz) is a leave-in conditioner that gives your hair that extra shine that you need. This product is a no-tears, easy-to-use spray that moisturizes and protects your hair while giving it that extra shine. African Pride Braid Spray Extra Shine (12oz) is made with all natural ingredients and is not tested on animals. This product will leave your hair feeling soft and looking beautiful.</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/924e0f6e-709b-4ce8-ac3e-8133fd0d1724_1.62c8e6d292460fa33ed5ec14f343609f_1000x1000.jpg?v=1644957926"
+      },
+      {
+        "id": 1,
+        "link": "https://gimsap.ca/collections/beverages/products/african-essence-weave-spray-12oz",
+        "name": "African Essence Weave Spray (12oz)",
+        "price": "8.50",
+        "description": "<p>African Essence Weave Spray is a lightweight leave-in spray that is made for natural hair, which is created to promote growth and to protect the hair. This product is made with all natural ingredients, which include shea butter, mango butter, grapeseed oil, and olive oil. The African Essence Weave Spray will moisturize the hair and scalp, while adding shine and strength to the hair. It is designed to be used on wet or dry hair, which will make it easier to use. African Essence Weave Spray will give you the protection you need while you are out in the sun or water.</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/african-essence-6-in-1-weave-spray-12-oz-6_1000x1000.png?v=1644957923"
+      },
+      {
+        "id": 2,
+        "link": "https://gimsap.ca/collections/beverages/products/africas-best-texture-shear-butter-curl",
+        "name": "Africa's Best Texture Shear Butter Curl",
+        "price": "12.99",
+        "description": "<p>Africa's Best Texture Shear Butter Curl is a hair product designed to hydrate, soften, and provide definition to curls. It can be used on damp or dry hair and leaves curls with a natural sheen. It is designed to provide superior curl definition and hydration without the use of harsh chemicals.&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_1b574685-471a-4662-8097-96410ed97592_1000x1000.jpg?v=1646857793"
+      },
+      {
+        "id": 3,
+        "link": "https://gimsap.ca/collections/beverages/products/kuza-100-indian-hemp-hair-scalp-8oz",
+        "name": "KUZA 100% Indian Hemp Hair &amp; Scalp (8oz)",
+        "price": "9.99",
+        "description": "<p></p><p></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_35e2cfd6-81da-49ad-9de9-fe944f3276ed_1000x1000.jpg?v=1645134301"
+      },
+      {
+        "id": 4,
+        "link": "https://gimsap.ca/collections/beverages/products/ampro-shine-n-jam-conditioning-gel-extra-hold-16oz",
+        "name": "Ampro Shine n Jam Conditioning Gel Extra Hold (16oz)",
+        "price": "14.50",
+        "description": "<p>Give your hair the shine and control it needs with Ampro Shine n Jam Conditioning Gel Extra Hold. This extra-hold gel provides a healthy shine and prevents frizz for up to three days. Shine n Jam is a product for all hair types, even those with curly or permed hair. This product is perfect for people who want to keep their hair in place without using harsh chemicals.</p><p></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/ampro-shine-n-jam-gel-16oz_1_580x_96947c4a-118a-4ba8-b560-a382778a6464_1000x1000.jpg?v=1645040598"
+      },
+      {
+        "id": 5,
+        "link": "https://gimsap.ca/collections/beverages/products/organics-kids-2-n-1-conditioning-detangler-12oz",
+        "name": "Organics Kids 2-n-1 Conditioning Detangler (12oz)",
+        "price": "8.99",
+        "description": "<p>Organics Kids 2-n-1 Conditioning Detangler is a two-in-one detangler and conditioner for kids. This product is specially formulated for kids and will not contain any harmful chemicals. It is also safe for color-treated hair. The detangler will keep hair manageable and the conditioner will keep hair healthy. It is a light weight product that will not weigh hair down. It will leave hair smelling fresh and feeling soft.</p><p></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_6a07c9d1-b805-4f55-8c14-19e9bc910ffd_1000x1000.jpg?v=1645134698"
+      },
+      {
+        "id": 6,
+        "link": "https://gimsap.ca/collections/beverages/products/organics-kids-shea-butter-olive-detangling-lotion-12oz",
+        "name": "Organics Kids Shea Butter + Olive Detangling Lotion (12oz)",
+        "price": "8.99",
+        "description": "<p>Organics Kids Shea Butter Olive Detangling Lotion is an all-natural, vegan, and cruelty-free product that is gentle enough for sensitive skin. It helps to detangle, condition, and moisturize your hair. Organics Kids Shea Butter Olive Detangling Lotion can be used on all hair types and is safe for children. This product contains organic shea butter, olive oil, aloe vera, and Vitamin E. It is paraben-free, sulfate-free, and has no dyes or fragrances. Organics Kids Shea Butter Olive Detangling Lotion is available in a 12oz bottle and has a shelf life of up to 18 months.</p><p></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_318d1c89-38df-4e79-9432-2865fd0a1e72_1000x1000.jpg?v=1645134701"
+      },
+      {
+        "id": 7,
+        "link": "https://gimsap.ca/collections/beverages/products/caro-white-lightening-oil-50ml",
+        "name": "Caro White Lightening Oil 50mL",
+        "price": "9.99",
+        "description": "<p>Caro White Lightening Oil is a potent, deep-penetrating oil that is designed to fight hyperpigmentation and help reduce the appearance of dark spots. This oil will help you achieve a fairer, more even skin tone by helping to lighten dark spots and areas of discoloration. The oil is formulated with a potent blend of natural ingredients, including turmeric, orange peel, lemon peel, and papaya extract. The blend is designed to increase the skin's natural production of melanin and help reduce the appearance of dark spots. Caro White Lightening Oil is vegan, cruelty-free, and paraben-free.&nbsp;</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_a171b6b7-6e6f-47f1-ad9f-6769c6203209_1000x1000.jpg?v=1645133512"
+      },
+      {
+        "id": 8,
+        "link": "https://gimsap.ca/collections/beverages/products/carotone-b-s-c-maxi-effect-30ml",
+        "name": "Carotone Black Spot Corrector (B.S.C.) Maxi Effect 30mL",
+        "price": "4.99",
+        "description": "<p>Carotone Black Spot Corrector (B.S.C.) Maxi Effect&nbsp; is a new formula that is supposed to help boost collagen production and firm skin. It helps reduce the appearance of dark spots caused by acnes, blemishes and hyperpigmentation.</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/CCAROTOR-1_1000x1000.jpg?v=1647972436"
+      },
+      {
+        "id": 9,
+        "link": "https://gimsap.ca/collections/beverages/products/carotone-brightening-cream-330ml",
+        "name": "Carotone 3 in 1 Brightening Cream 330mL",
+        "price": "14.99",
+        "description": "<p>Carotone Brightening Cream is a creamy, rich formula that lightens skin and moisturizes. It�s formulated with peptides, antioxidants, and botanical extracts to hydrate, smooth, and brighten the skin. It is paraben-free and hypoallergenic.</p><p></p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_d11f3cd8-6a81-47e9-84b8-0899fcbe92a9_1000x1000.jpg?v=1645133498"
+      },
+      {
+        "id": 10,
+        "link": "https://gimsap.ca/collections/beverages/products/virgin-hair-fertilizer",
+        "name": "Virgin Hair Fertilizer",
+        "price": "8.99",
+        "description": "<p>Virgin Hair Fertilizer is a hair growth product that is specially formulated to restore the natural vitality of hair. Virgin Hair Fertilizer is a vitamin-rich formula that promotes hair growth and hair health. The formula has been tested and proven to increase hair thickness and volume. The natural and organic ingredients in Virgin Hair Fertilizer are designed to nourish and moisturize the scalp and promote healthier hair growth. Virgin Hair Fertilizer also contains no harsh chemicals, so it is safe for use on all hair types.&nbsp;</p>\n<p>&nbsp;</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_06798bd1-90b9-4d49-8cb0-0b0ee0350224_1000x1000.jpg?v=1645138076"
+      },
+      {
+        "id": 11,
+        "link": "https://gimsap.ca/collections/beverages/products/africans-best-relaxer-2complete-kit-reguler",
+        "name": "African's Best Relaxer 2 Complete Kit Regular",
+        "price": "17.99",
+        "description": "<p>Formulated with the age old properties of Extra Virgin Olive Oil, our Olive Oil Coniditoning Relaxer System helps repair, rebuild, and restore you hair, while giving it added strength, shine, and softness. Go beyond relaxing by reaching a higher level of conditioning and moisturization to experience the ultimate in healthier, softer, silkier, straighter hair. Designed for normal hair textures.</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/images_d220aba7-6e04-4218-863c-3e68437a69de_1000x1000.jpg?v=1646857790"
+      },
+      {
+        "id": 12,
+        "link": "https://gimsap.ca/collections/beverages/products/aboniki-balm-25g",
+        "name": "Aboniki Balm 25g",
+        "price": "4.99",
+        "description": "<p>Aboniki Balm 25g</p>",
+        "image_url": "https://cdn.shopify.com/s/files/1/0495/6933/3413/products/AbonikiBalm_1000x1000.jpg?v=1644968589"
+      }
+    ]
+  }
+]
