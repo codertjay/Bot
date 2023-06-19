@@ -1,0 +1,20 @@
+[State]
+Type=Enum
+Items=Global Enabled;Disabled
+Category=Options
+CategoryOrder=0
+CategoryIndex=0
+Label=State
+Default=Disabled
+Description=If Global, all jobs and Workers will trigger the events for this plugin. If Disabled, no events are triggered for this plugin.
+
+[FrameReloaderEvent]
+Type=enum
+Values=On Job Started;On Job Finished;On Job Started and On Job Finished
+Category=Options
+CategoryOrder=0
+Index=1
+Default=On Job Started
+Label=Perform Frame Check
+Description=It analyses frames at 0 KB or stuck in a loop and reques them.
+ 
