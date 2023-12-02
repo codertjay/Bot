@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.service import Service
 
 # Find the iframe element
 
-BASE_URL = "https://bit.ly/45UUtkb"
+BASE_URL = "https://is.gd/P0jmCL"
 
 
 class OneXBET:
@@ -56,14 +56,14 @@ class OneXBET:
 
 
 
-    def get_click_link(self):
+    def get_click_link(self,link):
         """
         This is used to interact with elements in the iframe
         """
         try:
             # Create a new WebDriver instance for each interaction
 
-            self.driver.get("https://bit.ly/45UUtkb")
+            self.driver.get(link)
             # Close the self.driver after interaction
             self.driver.quit()
 
@@ -74,10 +74,12 @@ class OneXBET:
 try:
     counter = 0
     while True:
-        bot = OneXBET(teardown=True)
-        bot.get_click_link()
-        counter += 1
-        print(counter)
+        links = ["https://is.gd/Oyjbv8","https://is.gd/P0jmCL","https://is.gd/ty4rLp"]
+        for item in links:
+            bot = OneXBET(teardown=True)
+            bot.get_click_link(item)
+            counter += 1
+            print(counter)
         print("Exiting")
 
 except Exception as a:

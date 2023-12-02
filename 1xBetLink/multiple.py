@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.service import Service
 
 # Find the iframe element
 
-BASE_URL = "https://bit.ly/45UUtkb"
+BASE_URL = "https://is.gd/P0jmCL"
 
 
 class OneXBET:
@@ -64,11 +64,12 @@ class OneXBET:
             # Create a new WebDriver instance for each interaction
             counter = 0
             while True:
-                self.driver.get("https://bit.ly/3reMRtJ")
-                counter += 1
-                if counter == 500:
-                    break
-                print(counter)
+                links = ["https://is.gd/Oyjbv8","https://is.gd/P0jmCL","https://is.gd/ty4rLp"]
+                for item in links:
+                    self.driver.get(item)
+                    counter += 1
+                    
+                    print(counter)
         except Exception as e:
             print("An error occurred:", e)
 
