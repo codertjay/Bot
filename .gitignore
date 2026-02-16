@@ -2,3 +2,4 @@
 mail_click/.env
 /venv/
 /chromedriver_linux64/
+/solodit/audit/
